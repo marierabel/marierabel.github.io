@@ -1,0 +1,130 @@
+* {
+    margin: 0px;
+}
+.menu {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    position: relative;
+}
+
+.theme {
+    width: 25vw;
+    height: 50vh;
+    border: solid 2px white;
+    overflow: visible;
+}
+
+#t1 {
+    position: relative;
+    background-color: #F8F8FF;
+    overflow: hidden;
+    transition: 0.5s;
+    position: absolute;
+    top: 25vh;
+    left: 14%;
+    transition: all 0.5s linear;
+}
+
+#t1:hover {
+    z-index: 12;
+}
+
+#t2 {
+    position: absolute;
+    top: 25vh;
+    left: 39.3%;
+}
+
+#t3 {
+    position: absolute;
+    top: 25vh;
+    left: 64.5%;
+}
+
+#imgpla {
+    width: 35vw;
+    height: 52vh;
+    background-image: url("plantes_site.svg");
+    background-size: 132%;
+    background-position: bottom -6px left -2px;
+    background-repeat: no-repeat;
+    overflow: visible;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anipla {
+    animation: animpla 2s ease-out;
+    background-image: url("plantes_site24.svg");
+}
+
+
+
+@keyframes animpla {
+    0% {background-image: url("plantes_site.svg");}
+    10% {background-image: url("plantes_site1.svg");}
+    13% {background-image: url("plantes_site2.svg");}
+    16% {background-image: url("plantes_site3.svg");}
+    19% {background-image: url("plantes_site4.svg");}
+    21% {background-image: url("plantes_site5.svg");}
+    24% {background-image: url("plantes_site6.svg");}
+    27% {background-image: url("plantes_site7.svg");}
+    30% {background-image: url("plantes_site8.svg");}
+    33% {background-image: url("plantes_site9.svg");}
+    36% {background-image: url("plantes_site10.svg");}
+    39% {background-image: url("plantes_site11.svg");}
+    42% {background-image: url("plantes_site12.svg");}
+    45% {background-image: url("plantes_site13.svg");}
+    48% {background-image: url("plantes_site14.svg");}
+    50% {background-image: url("plantes_site15.svg");}
+    55% {background-image: url("plantes_site16.svg");}
+    60% {background-image: url("plantes_site17.svg");}
+    65% {background-image: url("plantes_site18.svg");}
+    70% {background-image: url("plantes_site19.svg");}
+    75% {background-image: url("plantes_site20.svg");}
+    80% {background-image: url("plantes_site21.svg");}
+    85% {background-image: url("plantes_site22.svg");}
+    90% {background-image: url("plantes_site23.svg");}
+    100% {background-image: url("plantes_site24.svg");}
+}
+
+
+#imgcir {
+    width: 35vw;
+    height: 30vh;
+    background-image: url("cercle_site.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: visible;
+    margin-bottom: 20%;
+}
+
+@keyframes cirexpanim {
+    0%{
+        width: 35vw;
+        height: 30vh;
+    }
+
+    50%{
+        width: 15vw;
+        height: 10vh;
+    }
+
+    100%{
+        width: 35vw;
+        height: 30vh;
+    }
+}
+
+.cirexp {
+    animation: infinite alternate 10s ease-in-out cirexpanim;
+}
+
+.expanded {
+    width: 35vw;
+    height: 52vh;
+    transition: width 0.5s, height 0.5s;
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.76667mm"
+   height="12.39991mm"
+   viewBox="0 0 52.766684 12.399912"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="breathe3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7646764"
+     inkscape:cx="106.81845"
+     inkscape:cy="43.350724"
+     inkscape:window-width="1280"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="mm" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1228">
+      <stop
+         style="stop-color:#c5baaf;stop-opacity:0.14059754"
+         offset="0"
+         id="stop1224" />
+      <stop
+         style="stop-color:#c5baaf;stop-opacity:0.63796133"
+         offset="0.49243829"
+         id="stop1296" />
+      <stop
+         style="stop-color:#c5baaf;stop-opacity:0.19156414"
+         offset="1"
+         id="stop1226" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1228"
+       id="linearGradient1230"
+       x1="1.9690132"
+       y1="4.4000055"
+       x2="51.55737"
+       y2="4.4000055"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="breath"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2306px;line-height:1.25;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=280';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient1230);fill-opacity:1;stroke:none;stroke-width:0.294687"
+       x="0.8609882"
+       y="8.5727806"
+       id="text1097"><tspan
+         sodipodi:role="line"
+         id="tspan1095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.23059083px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=280';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient1230);fill-opacity:1;stroke-width:0.294687"
+         x="0.8609882"
+         y="8.5727806">WELCOME</tspan></text>
+  </g>
+</svg>

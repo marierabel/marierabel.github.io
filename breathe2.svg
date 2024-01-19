@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.76667mm"
+   height="12.39991mm"
+   viewBox="0 0 52.766684 12.399912"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="breathe2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0929356"
+     inkscape:cx="108.42359"
+     inkscape:cy="-22.416691"
+     inkscape:window-width="1280"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="mm" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3693">
+      <stop
+         style="stop-color:#424b54;stop-opacity:0.43760985"
+         offset="0"
+         id="stop3689" />
+      <stop
+         style="stop-color:#424b54;stop-opacity:0.92442876"
+         offset="0.51477325"
+         id="stop955" />
+      <stop
+         style="stop-color:#424b54;stop-opacity:0.44288224"
+         offset="1"
+         id="stop3691" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3693"
+       id="linearGradient3695"
+       x1="2.5922124"
+       y1="4.1409741"
+       x2="50.69765"
+       y2="4.1409741"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="breath"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Corsiva Hebrew';-inkscape-font-specification:'Corsiva Hebrew, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient3695);fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.5586871"
+       y="7.9882722"
+       id="text1097"><tspan
+         sodipodi:role="line"
+         id="tspan1095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Corsiva Hebrew';-inkscape-font-specification:'Corsiva Hebrew, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient3695);fill-opacity:1;stroke-width:0.264583"
+         x="1.5586871"
+         y="7.9882722">BREATHE</tspan></text>
+  </g>
+</svg>
