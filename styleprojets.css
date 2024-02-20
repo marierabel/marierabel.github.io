@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+
+.ret {
+    width: 12vw;
+    height: 8vw;
+    background-image: url("retourcv.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    left: 1.5vw;
+    top: 0.2vh;
+}
+
+.main {
+    position: relative;
+    top: 20vh;
+    display: grid;
+    grid-template: 12vw 10vw;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 8vw;
+    justify-items: center;
+    align-items: center;
+}
+
+.projet {
+    width: 10vw;
+    height: 12vw;
+}
+
+.cadre {
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.334);
+    width: 10vw;
+    height: 10vw;
+    color: white;
+    font-size: 1.3vw;
+}
+
+.titre {
+    color: white;
+    font-size: 1vw;
+}
