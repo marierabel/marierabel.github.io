@@ -2,6 +2,9 @@ body {
     background-color: black;
 }
 
+a {
+    display: inline;
+}
 
 .ret {
     width: 12vw;

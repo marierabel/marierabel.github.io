@@ -5,6 +5,10 @@
   margin: 0%;
 }
 
+a {
+  display: inline;
+}
+
 #upage {
   position: absolute;
   top: 98%;
@@ -36,6 +40,7 @@
   border: none;
   padding: 0;
   z-index: 2;
+  cursor: pointer;
 }
 
 .h {
@@ -70,14 +75,13 @@
   /* border: 2Px solid #070809; */
   top: 8%;
   left: 7.8%;
-  display: none;
   z-index: 1;
 }
 
 .pm {
   position: relative;
   top: 15%;
-  padding-top: 10%;
+  margin-top: 10%;
   font-size: 2.5vw;
 }
 
@@ -308,7 +312,7 @@
 }
 
 #titreintro {
-  width: 65%;
+  width: 75vh;
   height: auto;
   font-family: 'Poppins', sans-serif;
   ;
@@ -968,11 +972,11 @@ p.testimonialFrom {
 }
 
 #card3 {
-  background-image: url("Capture d’écran 2024-02-19 à 19.13.55.png");
+  background-image: url("imageGarden.png");
 }
 
 #card4 {
-  background-image: url("Capture d’écran 2024-02-19 à 19.29.17.png");
+  background-image: url("imageMao.png");
 }
 
 .imgph {

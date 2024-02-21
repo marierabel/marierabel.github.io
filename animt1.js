@@ -1,9 +1,9 @@
 //animation scroll
 let titrintro = document.querySelector("#titreintro");
 
-function animation() {
+window.addEventListener('scroll', function () {
   titrintro.classList.add('animation');
-}
+});
 
 //carrousselle 1
 const state = {};
@@ -19,7 +19,7 @@ carouselList.addEventListener('click', function (event) {
     return;
   };
 
-  update(newActive);
+  update(isItem);
 });
 
 const update = function (newActive) {
@@ -60,11 +60,13 @@ let h3 = document.querySelector("#h3")
 function togglemenu() {
   if (hamenu.style.display === 'none') {
     hamenu.style.display = 'block';
+    fl1.style.opacity = '0';
     h1.classList.add('a');
     h2.classList.add('b');
     h3.classList.add('c');
   } else {
     hamenu.style.display = 'none';
+    fl1.style.opacity = '1';
     h1.classList.remove('a');
     h2.classList.remove('b');
     h3.classList.remove('c');
